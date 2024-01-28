@@ -27,5 +27,6 @@ The main challenge anticipated is managing the data's complexity, given the vast
 - Project Repository: [GitHub Link](https://github.com/pranavsai-98/GW-Capstone-Indonesia-Poverty-and-Equity-Program)
 
 ![Indonesia Development](202401_001.jpeg)
+
 *Figure 1: An illustrative image representing the project's focus on Indonesia's development.*
 
