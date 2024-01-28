@@ -24,7 +24,6 @@ The main challenge anticipated is managing the data's complexity, given the vast
 ## Contact Information
 - Advisor: Edwin Lo
 - Contact: [edwinlo@email.gwu.edu](mailto:edwinlo@email.gwu.edu)
-- Project Repository: [GitHub Link](https://github.com/pranavsai-98/GW-Capstone-Indonesia-Poverty-and-Equity-Program)
 
 ![Indonesia Development](202401_001.jpeg)
 
