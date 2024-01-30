@@ -99,4 +99,4 @@
 ## Contact
 - Author: Edwin Lo
 - Email: [edwinlo@email.gwu.edu](Eamil)
-- GitHub: [https://github.com/pranavsai-98/GW-Capstone-Indonesia-Poverty-and-Equity-Program](Git Hub rep)
+- GitHub: [https://github.com/pranavsai-98/24Spr_PranavSai_Indonesia_Poverty](Git Hub rep)
